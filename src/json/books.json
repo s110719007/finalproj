@@ -1,0 +1,42 @@
+{
+    "bookTitle":"My Book",
+    "bookList":[
+        {
+            "title":"The Immortailists",
+            "artist":"Chloe Benjamin",
+            "url":"https://www.5music.com.tw/CDList-C.asp?cdno=438495678635",
+            "image":"https://cdn.zeplin.io/5e6edfd117dbf813ddad315b/assets/04D09DBE-AA26-4F7E-A79C-A728C9CE1CBE.png",
+            "description":"If you were told the date of your death, how would it shape your…",
+            "status":"50% completed"
+        },
+        {
+            "title":"Grist Mill Road",
+            "artist":"Christopher J.",
+            "url":"https://www.5music.com.tw/CDList-C.asp?cdno=439405679040",
+            "image":"https://cdn.zeplin.io/5e6edfd117dbf813ddad315b/assets/4B2D80FE-6DE3-4429-A24A-43E02CABCDF1.png",
+            "description":"Twenty-six years ago Hannah had her eye shot out. Now she wants…",
+            "status":"https://cdn.zeplin.io/5e6edfd117dbf813ddad315b/assets/D191A01A-2326-4D19-8F01-FC0C145F6BD8.svg"
+
+        },
+        {
+            "title":"Street Art Activity Book",
+            "artist":"Mitchell Beazley",
+            "url":"https://www.5music.com.tw/CDList-C.asp?cdno=438475678591",
+            "image":"https://cdn.zeplin.io/5e6edfd117dbf813ddad315b/assets/529438FF-9636-488B-8664-AF61468DC473.png",
+            "description":"Street art is colorful, vibrant, diverse and exciting.Now, you can create…",
+            "status":"https://cdn.zeplin.io/5e6edfd117dbf813ddad315b/assets/D191A01A-2326-4D19-8F01-FC0C145F6BD8.svg"
+        }
+   
+    ],
+    "DrawerList":[
+        {
+            "name":"GamexHCl",
+            "account":"gdlab2017@gmail.com",
+            "home":"Home",
+            "mybook":"My Book",
+            "favorites":"Favorite",
+            "setting":"Settings",
+            "about":"About Us"
+        }
+    ]
+    }

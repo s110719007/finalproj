@@ -1,0 +1,19 @@
+{
+    "gender": "女",
+    "name": {
+      "first": "月光戰士",
+      "last": ""
+    },
+    "location": {
+      "street": "160/43",
+      "city": "愛滋",
+      "state": "無",
+      "postcode": 14
+    },
+    "email": "a123@gmail.com",
+    "login": {
+      "username": "160/43"
+    },
+    "dob": "2020/5/1"
+  }
+  
